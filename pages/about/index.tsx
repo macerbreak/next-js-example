@@ -5,8 +5,8 @@ import GoBackBtn from "../../components/GoBackBtn";
 const Index = () => {
     return <>
         <MainLayout>
-            <Typography>This is About Page</Typography>
             <GoBackBtn/>
+            <Typography>This is About Page</Typography>
         </MainLayout>
     </>
 }
